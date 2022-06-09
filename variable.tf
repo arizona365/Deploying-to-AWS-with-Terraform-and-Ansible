@@ -34,6 +34,6 @@ variable "webserver-port" {
 }
 
 variable "dns-name" {
-	type = string
-	default = "domainName"  #set your domain name
+  type    = string
+  default = "cmcloudlab1654.info." #set your domain name
 }
